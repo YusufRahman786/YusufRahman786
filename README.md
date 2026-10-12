@@ -3,21 +3,21 @@
 I'm an Economics student at the University of Warwick interested in financial markets, quantitative analysis and software development.
 
 Interests:
-Financial modelling and valuation \n
-Python programming \n
-Data analysis and visualisation
-Quantitative finance and algorithmic trading
-Artificial intelligence and machine learning
+Financial modelling and valuation,
+Python programming,
+Data analysis and visualisation,
+Quantitative finance and algorithmic trading,
+Artificial intelligence and machine learning.
 
 Current Focus:
-Developing Python programming skills
-Building financial data analysis projects
-Learning to apply statistics and programming to financial markets
+Developing Python programming skills,
+Building financial data analysis projects,
+Learning to apply statistics and programming to financial markets.
 
 Technologies:
-Python
-Git and GitHub
-Jupyter Notebook
+Python,
+Git and GitHub,
+Jupyter Notebook.
 
 Projects:
 Projects will be added here as they develop.
