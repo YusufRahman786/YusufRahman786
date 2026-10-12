@@ -3,8 +3,8 @@
 I'm an Economics student at the University of Warwick interested in financial markets, quantitative analysis and software development.
 
 Interests:
-Financial modelling and valuation
-Python programming
+Financial modelling and valuation \n
+Python programming \n
 Data analysis and visualisation
 Quantitative finance and algorithmic trading
 Artificial intelligence and machine learning
